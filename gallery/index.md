@@ -58,6 +58,16 @@ by Toymazing
 
 
 
+### [Otomatone](https://otamatone.com/)
+
+by [Hamee](https://hamee.com/)
+
+![](media/otomatone.png)
+
+
+
+
+
 ### [The Learn To Play Light Up Harmonica](https://www.hammacher.com/product/learn-to-play-light-up-harmonica)
 
 by Hammacher Schlemmer
@@ -242,3 +252,138 @@ by [Takara Tomi](https://www.takaratomy-arts.co.jp/)
 
 ![](media/munyu.png)
 
+
+
+### Blow-a-Tune (1949)
+
+by Kenner Products
+
+![](media/bat1.jpeg)
+
+![](media/bat2.jpeg)
+
+![](media/bat3.jpeg)
+
+
+
+### Baby Piano
+
+by Toymazing
+
+![](media/toymazing_baby_piano.png)
+
+
+
+### Jump n Jive Spin n Play
+
+by Hunson Trading
+
+![](media/spin_n_play_1.png)
+
+![](media/spin_n_play_2.png)
+
+
+
+### Xylomatic
+
+by Congost
+
+![](media/xylomatic.png)
+
+
+
+### Musicmaker
+
+by [Company](website)
+
+![](media/musicmaker1.png)
+
+![](media/musicmaker2.png)
+
+![](media/musicmaker3.png)
+
+
+
+### My First Drum Set
+
+by Toymazing
+
+![](media/toymazing_drumset1.png)
+
+![](media/toymazing_drumset2.png)
+
+
+
+### Toy Piano
+
+by Schoenhut
+
+![](media/schoenhut_mini.png)
+
+
+
+### Thumb Piano
+
+by
+
+![](media/thumb_piano.png)
+
+
+
+### Rhythm Rumpus
+
+by [Company](website)
+
+![](media/rumpus1.png)
+
+![](media/rumpus2.png)
+
+
+
+### Time Blocks
+
+by Fletcher Music Method
+
+![](media/timeblocks1.png)
+
+![](media/timeblocks2.png)
+
+
+
+### Loch Karten Orgel
+
+by [Company](website)
+
+![](media/orgel_1.jpeg)
+
+![](media/orgel_2.jpeg)
+
+![](media/orgel_3.jpeg)
+
+
+
+### Saxaboom (1997)
+
+by [Company](website)
+
+![](media/saxaboom1.jpg)
+
+![](media/saxaboom2.jpg)
+
+![](media/saxaboom3.jpg)
+
+
+
+### Pocket Operator
+
+by Teenage Engineering
+
+![](media/pocket_operator.png)
+
+
+
+### [New Entry](URL)
+
+by [Company](website)
+
+![](media/IMAGE.png)
